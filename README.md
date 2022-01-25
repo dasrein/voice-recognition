@@ -1,1 +1,1 @@
-meh
+using vosk model from David Zurow <daanzu@gmail.com>
